@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://streamable.com/plxvy)
+[![Watch the video]](https://streamable.com/plxvy)
 
 ## Getting Started
 
